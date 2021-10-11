@@ -1,0 +1,15 @@
+.main{
+    margin: 0px !important;
+    width: 50%;
+    height: 250px;
+    position: relative;
+    top: 120px;
+    left: 350px;
+    border: none;
+    text-align: center;
+    color: black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: cursive;
+    box-shadow: 5px 5px 5px 2px gray;
+}

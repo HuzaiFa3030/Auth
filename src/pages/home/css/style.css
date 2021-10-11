@@ -1,0 +1,35 @@
+.main-div {
+    opacity: 88%;
+    width: 100%;
+    background-image: url(../../../assets/images/homeImage.jpg);
+    height: 100vh;
+}
+
+.heading {
+    margin: 0px;
+    text-align: center;
+    align-content: center !important;
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 150px;
+    font-size: 70px;
+    font-family: cursive;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+}
+
+.heading3 {
+    margin: 0px;
+    text-align: center;
+    align-content: center !important;
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+    position: relative;
+    top: 180px;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: black;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
